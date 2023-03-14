@@ -1,1 +1,1 @@
-v0.0.1
+Notes & VersionCheckSystem for MoneyBOT
