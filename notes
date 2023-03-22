@@ -1,8 +1,14 @@
-v1.0.1
+v1.2.0 | 17.03.23
+-Sistem VDS'e kuruldu.
+-VDS'e özel HC, CGC ve BC için optimizasyon sağlandı.
+
+v1.0.1 | 03.03.23
 -MoneyBOT içerisine HourBoost özelliği eklendi.
 -MoneyBOT VersionCheckSystem eklendi.
 
-v0.0.1
+v0.1.0 | 17.02.23
+-CGC ve BC siteleri programa eklendi.
+
+v0.0.1 | 13.01.23
 -Sisteme HC eklendi.
--Sisteme BC eklendi.
 -Steam Guard desteği eklendi.
