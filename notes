@@ -1,3 +1,8 @@
+v1.3.0 | 24.03.23
+-Manual Steam API ve Steam trade link ekleme özelliği eklendi.
+-"Hesabı Chrome'da aç" kısmına "SIH ile aç" özelliği eklendi.
+-GUI iyileştirmesi yapıldı.
+
 v1.2.0 | 17.03.23
 -Sistem VDS'e kuruldu.
 -VDS'e özel HC, CGC ve BC için optimizasyon sağlandı.
