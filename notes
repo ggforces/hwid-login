@@ -1,3 +1,7 @@
+v1.3.5 | 28.03.23
+-Discord Webhook mesajları düzenlendi. Webhook mesajlarına "Hesap parayı çekebilir/çekemez" ibareleri eklendi.
+-Programa "CsGoBackpack" websitesinin entegrasyonu sağlandı, tüm hesaplardaki envanter bakiyeleri gözüküyor.
+
 v1.3.0 | 24.03.23
 -Manual Steam API ve Steam trade link ekleme özelliği eklendi.
 -"Hesabı Chrome'da aç" kısmına "SIH ile aç" özelliği eklendi.
